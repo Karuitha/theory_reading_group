@@ -17,8 +17,10 @@ author:
         state: Kenya
         postal-code: 10101
 format: 
-  revealjs:
-    theme: night
+  beamer:
+    navigation: horizontal
+    header-includes: |
+      \titlegraphic{\includegraphics[width=0.4\paperwidth]{karu2.png}}
     toc: true
     toc-depth: 3
     toc-title: Contents
