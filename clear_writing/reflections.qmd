@@ -1,0 +1,255 @@
+---
+title: "**Reflections on the Craft of Clear Writing**"
+subtitle: "*Ragins, B. R. (Ed.). (2012). Editor's comments: Reflections on the craft of clear writing. Academy of Management Review, 37(4), 493-501.*"
+author:
+  - name: John Karuitha
+    orcid: 0000-0002-8204-7034
+    email: jkaruitha@karu.ac.ke
+    affiliations:
+      - name: Graduate School of Business Administration, University of the Witwatersrand
+        address: 2nd St Davids Pl & St Andrew Rd, Parktown
+        city: Johannesburg
+        state: South Africa
+        postal-code: 2193
+      - name: Karatina University, School of Business
+        address: P.O. Box 1957-00100
+        city: Karatina
+        state: Kenya
+        postal-code: 10101
+format: 
+  revealjs:
+    theme: night
+    toc: true
+    toc-depth: 3
+    toc-title: Contents
+transition: fade
+transition-speed: slow
+background-transition: slide
+editor: visual
+progress: true
+backgroundcolor: "black"
+data-background-image: "https://karu.ac.ke/wp-content/uploads/2021/11/karu2.png"
+slide-number: true
+slide-tone: true
+date: today
+date-modified: today
+number-sections: true
+number-depth: 3
+bibliography: references.bib
+---
+
+## **Background**
+
+-   Writing is hard work.
+
+-   Writing can be frustrating, more so for theory papers.
+
+-   Gets worse with journal rejections comments.
+
+    -   *I am not sure what the author wanted to achieve in this paper...*
+
+    -   *After reading the paper thrice, I am still not sure what it is all about.*
+
+    -   *The first 10 pages were an endless literature review.*
+
+## **Objectives**
+
+-   The key to clear writing is to understand the reader [@editors2012; @williams2014lessons; @zinsser2006writing].
+
+-   This is more easily said than done.
+
+-   The goals of this article are:
+
+    -   Share reviewers insights and reflections on clear writing.
+
+    -   Add to the topic of clear writing which is key in all areas, and especially academia.
+
+## Method
+
+-   The editor interviewed current and past editorial review members of AMR.
+
+-   The author engaged the subjects on the following issues in the survey:
+
+    -   Input on writing styles, organisation, and presentation of theory papers.
+
+    -   Thoughts on why authors engage in poor writing.
+
+    -   Advice and recommendations on writing clear theoretical articles.
+
+## What is Clear Writing?
+
+-   Clear writing commits to express ideas with;
+
+    -   Clarity,
+
+    -   Directness,
+
+    -   Precision.
+
+-   Clear writing is elegant, not pretentious.
+
+-   The goal is not to show readers how smart you are.
+
+-   The goal is to take the reader on a clear, logical, and direct journey.
+
+## What is Clear Writing?
+
+-   Clear writing is simple but not simplistic.
+
+-   Clear writing points the readers to the key points and logic without having to re-read the content.
+
+-   Clear writing focuses on the reader, not the writer.
+
+-   In fact, clear writing keeps the writer invisible as the message passes across.
+
+## **What Makes Writing Bad?**
+
+### Foggy Writing
+
+-   Use of complex words that obscure meaning.
+
+-   Using complex language/ dense sentences for straight forward concepts.
+
+-   Using more than one term without prior clarification.
+
+-   Use of passive language --- big issue. Difficult on the mind as the reader has to figure out who is doing what.
+
+## **What Makes Writing Bad?**
+
+### Why Do Authors Foggy Write?
+
+-   Writing to "IMPRESS" rather than "EXPRESS".
+
+-   Position your idea as novel by describing it differently.
+
+-   Afraid to reveal how simple our ideas are; feels devaluing. There is beauty in simplicity.
+
+-   Insecurities, misconceptions about writing, lack of clarity in their mind about what they are writing.
+
+## **What Makes Writing Bad?**
+
+### Remedies to Foggy Writing
+
+-   Dissect your ideas to the core and present them with minimum jargon.
+
+-   Knowing what you really want to say helps in writing clarity.
+
+-   Get a reviewer that will be VERY honest about your writing. This requires putting our EGO aside.
+
+## Read my Mind
+
+-   Cousin of foggy writing.
+
+-   Presenting the reader with concepts, jargon, and acronyms that are undefined or used inconsistently in the article.
+
+-   Assuming that the reader is inside your (the writer) mind.
+
+-   Use of unneccesary jargon and incomprehensible text.
+
+-   Its like readers need to learn a new language to follow your text.
+
+## Read my Mind
+
+### What Causes the Read my Mind Problem?
+
+-   Lack of empathy and perspective. Put yourself in the readers shoes.
+
+-   Being too close to the subject (expert-wise). You assume others grasp it as well as you do.
+
+-   Self serving purpose: If I don't define this term, there is less risk of criticism.
+
+-   If I keep the definitions ambiguous, I can stretch them at will.
+
+## Read my Mind
+
+### Remedies
+
+-   Never lose site of your reader.
+
+-   Have a non-specialist read your work. If they can't follow, it is too complex.
+
+-   read aloud the text with your co-author, friend. This also catches typos. Text reading software can help.
+
+-   Introduce jargon for 2 to 5 concepts. For other jargon, just include their relevant context.
+
+-   Leave your paper for a few days then reread it. If you struggle to understand any part, your reader won't get it either.
+
+## What is the Story?
+
+-   A clear story is clear, direct, and compelling.
+
+-   A clear, direct, and compelling story hooks the reader and carries them to the end without struggle.
+
+-   In contrast, bad writing is fragmented, has no thread, and tells no story. What causes this? Next ........
+
+## What is the Story?
+
+### Causes
+
+-   Bad introductions. The key to a clear, compelling story is a good introduction.
+
+-   A good introduction should;
+
+    -   Tell the story in a nutshell.
+
+    -   Embed the paper in its research context.
+
+    -   Explain the contribution of the paper to the literature.
+
+    -   Draw the reader to the story (hook the reader).
+
+## What is the Story?
+
+### Causes
+
+-   Failing to 'problematize' the literature.
+
+-   "Problematization" is the core to justifying your write up.
+
+-   Answer the question, "Without this work, what can't we understand"?
+
+-   Stating that a gap exists is not enough. Not all gaps need to be filled.
+
+-   STATE YOUR CONTRIBUTION EARLY. Hint it in the first paragraph and present it more broadly within the first few pages.
+
+## What is the Story?
+
+### Causes
+
+-   Too many cooks in the kitchen. Sharing out different paper sections to different authors.
+
+-   Trying to do too much in one manuscript. Scope your work realistically.
+
+-   Give your paper to a non-specialist to read and then ask them what the story is about. If they cant state in simple terms, there is a problem.
+
+## **Conclusion**
+
+-   Clear writing reflects a clear thought process.
+
+-   Striving to write clearly invokes thinking.
+
+-   Do not write to impress. Write to express.
+
+-   Keep it simple.
+
+-   Present your intent early. Research article is not a suspense novel.
+
+## **Conclusion**
+
+-   Be keen on the introduction.
+
+-   Minimize of eliminate passive language. Always active.
+
+-   Have your work read by specialists and non-specialists before submission for publication.
+
+-   Always give an outline of the study.
+
+## **Conclusion**
+
+-   Read the topic sentence of each paragraph alone to gauge the progress.
+
+-   Write the entire story line as bullets on one page, ensuring that the different key terms and relations cover the main aspects and are related in a logical, sequential way.
+
+-   Go back and justify the need for each para\[graphs\] written. This forces you to make connections between the different ideas in the paper and develop a good map of the overall landscape--which then helps the reader and makes it easy for them to follow your thought process.
+
+## References {.unnumbered}
